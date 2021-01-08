@@ -1,0 +1,10 @@
+[INFO ] 2021-01-07 15:21:25.625 [main] SampleLoggingApplication - Starting SampleLoggingApplication using Java 1.8.0_251 on miiyer-mac with PID 72347 (/Users/miiyer/dev/apps/workspace/sample-logging/target/classes started by miiyer in /Users/miiyer/dev/apps/workspace/sample-logging)
+[DEBUG] 2021-01-07 15:21:25.628 [main] SampleLoggingApplication - Running with Spring Boot v2.4.1, Spring v5.3.2
+[INFO ] 2021-01-07 15:21:25.628 [main] SampleLoggingApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-01-07 15:21:28.089 [main] SampleLoggingApplication - Started SampleLoggingApplication in 2.724 seconds (JVM running for 3.29)
+[ERROR] 2021-01-07 15:21:57.204 [http-nio-8080-exec-1] SpeakerController - Speaker not found with id: 9
+[ERROR] 2021-01-07 15:22:01.296 [http-nio-8080-exec-3] SpeakerController - Speaker not found with id: 10
+[INFO ] 2021-01-07 15:28:16.511 [main] SampleLoggingApplicationTests - Starting SampleLoggingApplicationTests using Java 1.8.0_251 on miiyer-mac with PID 72584 (started by miiyer in /Users/miiyer/dev/apps/workspace/sample-logging)
+[DEBUG] 2021-01-07 15:28:16.514 [main] SampleLoggingApplicationTests - Running with Spring Boot v2.4.1, Spring v5.3.2
+[INFO ] 2021-01-07 15:28:16.515 [main] SampleLoggingApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-01-07 15:28:21.451 [main] SampleLoggingApplicationTests - Started SampleLoggingApplicationTests in 5.159 seconds (JVM running for 6.234)
